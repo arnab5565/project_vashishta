@@ -119,9 +119,13 @@ void call(int a){
         cout << "________________________" << endl;
         cout << "#############           " << endl;
 
+        cout << "DISK E" << endl;
+        cout << "_________________________" << endl;
+        cout << "###############          " << endl;
+
 
         break;
-        
+
 
 
         break;
