@@ -52,7 +52,12 @@ void call(int a){
         case 2:
         char ar;
 
+//this idn the coment that need s to me j,hd  jgud jhgdhsw xsyffuyw 
+
+
         while(ar!='n'){
+
+
 
         cout << "The architecture of this OS is very simple it follows a few rules " << endl; 
         cout << "some new parts of your hardware here is how it works ^___^" << endl;
