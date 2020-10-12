@@ -58,7 +58,7 @@ headingIcon.pack(side=TOP)
 urlfield = Entry(main, font=("verdana" , 18) , justify=CENTER)
 urlfield.pack(side=TOP, fill= X, padx=10)
 
-dbtn=Button(main, text='Start Download ', font=("verdana", 18), relief='ridge', command=startDownload)
+dbtn=Button(main, text='Start Download ', font=("verdana", 18), relief='flat', command=startDownload)
 
 dbtn.pack(side=TOP, pady=10)
 
