@@ -104,7 +104,13 @@ void call(int a){
 
         //need to be managed
         cout << "going to the kernel mode right now............ " << endl;
-        char command;
+        cout << "_______________________________________________" << endl;
+        cout << "###############################################" << endl;
+        cout << "OOPS !!!!!!!!" << endl;
+        cout << "          -           " << endl;
+        cout << "WARNING !!!!!!!" << endl;
+        cout << "SYSTEM DENIED" << endl;
+        break;
 
         
         case 4:
