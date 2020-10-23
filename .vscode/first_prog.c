@@ -1,37 +1,6 @@
 #include <stdio.h>
 int global_var;
 
-/*book, smaller memory addresses
-are always shown at the top. Most
-debuggers also display memory in
-this style, with the smaller memory
-addresses at the top and the higher
-ones at the bottom.
-Since the heap and the stack
-are both dynamic, they both grow
-*/
-
-
-/**in different directions toward each
-other. This minimizes wasted space,
-allowing the stack to be larger if the
-heap is small and vice versa.
-Text (code) segment
-Data segment
-bss segment
-Heap segment
-Stack segment
-The stack grows
-up toward lower
-memory addresses.
-The heap grows
-down toward
-higher memory
-addresses.
-Low addresses
-High addresses
-76 0x200
-*/
 
 
 int global_initialized_var = 5;
