@@ -1,6 +1,9 @@
 export { }
 
 let am: string;
+//this must be the position
+  
+
 am = "arnab";
 
 
@@ -21,3 +24,22 @@ let list2: Array<number> = [3, 7, 8, 4, 9, 2, 90, 43];
 
 console.log(list2);
 console.log(am);
+
+
+
+/**function add(num1:number, num2:number) {
+
+    return num1+num2;
+    
+}
+
+add(9,9);
+*/
+
+
+
+
+
+
+
+
